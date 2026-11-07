@@ -31,3 +31,6 @@ app/test-results/
 
 # written by the edl tool when run from the repo root
 edl_config.json
+
+# private Claude Code context (homelab, devices) — never commit
+CLAUDE.local.md
